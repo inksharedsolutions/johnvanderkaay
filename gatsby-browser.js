@@ -5,3 +5,8 @@
  */
 
 // You can delete this file if you're not using it
+import './src/assets/scss/main.scss'
+import './src/assets/scss/pages.scss'
+import './src/assets/scss/responsive.scss'
+import "slick-carousel/slick/slick.css";
+import "slick-carousel/slick/slick-theme.css";
