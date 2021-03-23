@@ -69,7 +69,7 @@ const Footer = () => {
                                 <li>
                                     <a
                                         target="_blank"
-                                        href="https://www.goodreads.com/book/show/18502316-the-surrender-paradox"
+                                        href="https://www.goodreads.com/book/show/56365644-the-surrender-paradox"
                                         rel="noreferrer">
 
                                         <FontAwesomeIcon
