@@ -7,7 +7,7 @@ import Banner from '../components/banner';
 import MidBook from "../components/front-book"
 import Author from "../components/author"
 import FeaturedLogos from "../components/mid-main"
-// import Video from "../components/videos"
+import Video from "../components/videos"
 
 const IndexPage = () => (
   <>
@@ -17,8 +17,8 @@ const IndexPage = () => (
       <Banner /><br /><br /><br />
       <MidBook />
       <Author />
+      <Video />
       <FeaturedLogos />
-      {/* <Video /> */}
     </Layout>
   </>
 )

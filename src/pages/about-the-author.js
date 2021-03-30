@@ -54,7 +54,7 @@ const Author = (props) => {
                             <p>
                                 <span className="author-name">
                                     <span className="author-span-ft">Author | Writer </span>
-                                    <span className="ata-name">Dr. John Vanderkaay</span>
+                                    <span className="ata-name">Dr. John VanderKaay</span>
                                 </span>
                             </p>
 

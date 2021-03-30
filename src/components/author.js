@@ -27,7 +27,7 @@ const Author = () => {
 
                         <h1 className="author-name-tag" data-aos="fade-right" data-aos-offset="300" data-aos-easing="ease-in-sine">
                             <span>Dr. John</span>
-                            <span>Vanderkaay</span>
+                            <span>VanderKaay</span>
                         </h1>
 
                         <span className="author-tagline">Author & Writer</span>

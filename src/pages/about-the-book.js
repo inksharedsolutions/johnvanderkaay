@@ -7,7 +7,7 @@ import Banner from '../components/non-front-banner'
 import BookInfo from '../components/book-info/book-info'
 import { DiscussionEmbed } from "disqus-react"
 import Book1 from '../static/book/book.png'
-import ParallaxBottom from '../components/parallax-bottom';
+// import ParallaxBottom from '../components/parallax-bottom';
 
 const ATB = (props) => {
 

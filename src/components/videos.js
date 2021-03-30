@@ -9,33 +9,39 @@ const Video = () =>{
                 <div className="grid-two-columns" id="trailer-body">
                     
                     <div className="grid-child-content">
-                        <h5>R. Michael Richard</h5>
+                        <h5>Dr. John VanderKaay</h5>
 
                         <h1>
-                            <span>Radio</span>
-                            <span>Interview</span>
+                            <span>Book</span>
+                            <span>Trailer</span>
                         </h1>
-
-                        <p>
-                           Just like how the story of the book goes, 
-                           the process in writing it was also a journey.
-                           Hear about it from the author himself.
-                           Click the play button and learn more.
-                        </p>
                         
+                        <p>
+                           Will you choose Surrender as an option after experiencing war, disaster and betrayal ?
+                           Click the play button, then watch and learn.
+                        </p>
+
                     </div>
 
                     <div className="grid-video-container">
                         <div className="player-wrapper">
                             {/* <ReactPlayer
                                 className="react-player"
-                                url={"https://www.youtube.com/watch?v=eCaC9KeyxS4"}
+                                url={"https://www.youtube.com/embed/head6m6ucO0"}
                                 width="100%"
                                 height="400px"
                                 controls={true}
                                 playIcon
                             /> */}
-                            <iframe src="https://www.youtube.com/embed/36tVRb4FW4w" width="100%" height="400"></iframe>
+                            <iframe 
+                                width="100%" 
+                                height="400" 
+                                src="https://www.youtube.com/embed/head6m6ucO0" 
+                                title="The Surrender Paradox" 
+                                frameborder="0" 
+                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                                allowfullscreen>
+                            </iframe>
                         </div>
                     </div>
                 

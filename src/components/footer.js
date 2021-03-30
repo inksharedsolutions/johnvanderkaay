@@ -22,7 +22,7 @@ const Footer = () => {
                         </h1>
 
                         <p>
-                            Dr. John Vanderkaay loves to hear from readers. You can reach him via email.
+                            Dr. John VanderKaay loves to hear from readers. You can reach him via email.
                             Feel free to send questions about writing, his works, interviews
                             and other publicity matters.
                         </p>
@@ -31,7 +31,7 @@ const Footer = () => {
                             <ul>
 
                                 <li>
-                                    <a href="https://www.facebook.com/StrattonPressInc/"
+                                    <a href="https://www.facebook.com/surrenderparadox/"
                                         target="_blank"
                                         rel="noreferrer">
                                         <FontAwesomeIcon
